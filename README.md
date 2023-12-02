@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @httplinguine and I'm aiming to start a career in tech as a developer.
-- 👀 I’m interested in front-end and cloud development.
+- 👀 I’m interested in front-end, cloud development and COFFEE.
 - 🌱 I’m currently learning my fundamentals in coding, front-end to be specific.
 - 💞️ I’m looking to collaborate with other self-taught/career shifters like me.
 - 📫 Send me an email at socialwithheza@gmail.com
